@@ -37,3 +37,9 @@ header {
     padding-top: 0%;
   }
 }
+
+a:link {
+  color: rgb(46, 114, 209);
+  background-color: transparent;
+  text-decoration: underline;
+}
